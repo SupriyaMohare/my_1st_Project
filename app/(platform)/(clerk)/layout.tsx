@@ -10,4 +10,6 @@ const ClerkLayout = ({children}:
     };
 
 
-    export default ClerkLayout;
+export default ClerkLayout;
+
+    
